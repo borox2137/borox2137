@@ -1,4 +1,7 @@
 ## Borox
+#### C# • Python • borox#8074
+
+[Discord](https://discord.gg/M7UPGszx7M)
 
 
 ### Statistics
