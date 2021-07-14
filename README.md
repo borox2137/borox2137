@@ -1,9 +1,25 @@
-## Borox
-#### C# • Python • borox#8074
+<h1 align="center">Hi 👋, I'm borox</h1>
+<h3 align="center">💻 > web dev & discord bots dev</h3>
 
-[Discord](https://discord.gg/M7UPGszx7M)
+- 🔭 I’m currently working on **SanDiegoRP & Cloud Discord Bot**
 
+- 🌱 I’m currently learning **Discord.js & Python**
 
-### Statistics
-<img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borox2137&layout=compact&hide_border=true&theme=dark" /><br>
-<img align="Left" alt="Vazity's Github Stats" src="https://github-readme-stats.vercel.app/api?username=borox2137&show_icons=true&hide_border=true&theme=dark" />
+- 👨‍💻 All of my projects are available at [github.com/borox2137](github.com/borox2137)
+
+- 💬 Ask me about **Discord.js & Python**
+
+- 📫 How to reach me **borox.tv@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/hello_im_borox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hello_im_borox" height="30" width="40" /></a>
+<a href="https://discord.gg/hg7TjKA4Yu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hg7TjKA4Yu" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borox2137&show_icons=true&locale=en&layout=compact" alt="borox2137" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borox2137&show_icons=true&locale=en" alt="borox2137" /></p>
