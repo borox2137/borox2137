@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm borox</h1>
-<h3 align="center">💻 > web dev & discord bots dev</h3>
+<h3 align="center">💻 > web dev & py dev & dc.js dev</h3>
 
-- 🔭 I’m currently working on **SanDiegoRP & Cloud Discord Bot**
+- 🔭 I’m currently working on **mini project**
 
 - 🌱 I’m currently learning **Discord.js & Python**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Discord.js & Python**
 
-- 📫 How to reach me **borox.tv@gmail.com**
+- 📫 How to reach me **discord: borox \\#8074**
 
 
 <h3 align="left">Languages and Tools:</h3>
